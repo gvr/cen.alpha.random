@@ -1,2 +1,3 @@
 # cen.alpha.random
-Some random number generators for Scala
+Some random number generators and tools for Scala
+Work in progress ...
